@@ -1,6 +1,6 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
-import SFLLogo from "/logo.svg";
+import SFLLogo from "/icon.svg";
 import "./App.css";
 
 function App() {
@@ -19,6 +19,7 @@ function App() {
       <h1>Frontend Internship </h1>
 
       <p className="read-the-docs">snowfoxlab-react-guide</p>
+       <p className="read-the-docs">Pratik Devkota</p>
     </>
   );
 }
